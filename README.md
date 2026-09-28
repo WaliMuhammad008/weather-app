@@ -23,7 +23,7 @@ This project fetches real-time weather data from an API and displays useful weat
 
 ## Live Demo
 
-(Add your live demo link)
+https://walimuhammad008.github.io/weather-app/
 
 ## Author
 
